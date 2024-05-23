@@ -1,12 +1,12 @@
 # Overview
 
-For this program, my goal was to gain a solid foundation in pygame. I had never used pygame before and I learned a lot about its syntax and structure.
+For this program, my goal was to gain a solid foundation in pygame. I had never used pygame before and I learned a lot about its syntax and structure. 
+
+I used generative AI to help me learn the language syntax for many parts of the program. However, I did not use generative AI to write any code for me. I only used it as a quick way of looking up the syntax for PyGame commands.
 
 My game is a compilation of little things that I learned during this project. There are three screens. The first one generates ten randomly sized and colored rectangles. The user controls a small rectangle and can move it around to "collect" all of the rectangles. The left screen has spikes on that top that you are not supposed to run into. The right screen doesn't do anything because I didn't have time to build it out further.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/SZxIrs3X-MQ)
 
 # Development Environment
 
