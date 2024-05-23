@@ -110,7 +110,11 @@ while tri_x < WIDTH - wall_width:
 
     # Moves the x coordinate over each time so that they are all in a row.
 
-    # AI helped me with the logic behind this.
+    """
+    AI helped me learn how to make triangles in a row.
+    I did not copy any code. I just learned about it and 
+    implemented it in a way that worked for what I am doing.
+    """
     points = ((tri_x,tri_y), (tri_x + side_length, tri_y), 
               ((tri_x + side_length / 2), tri_y * 3))
     
