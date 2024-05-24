@@ -135,10 +135,11 @@ you_died = False
 running = True
 
 while running:
-    # Save the velocity in 
-    dt = clock.tick(fps) / 1000
+    # Save the velocity in vel.
+    time_elapsed = clock.tick(fps) / 1000 # AI showed me how to do this.
     velocity = 200
-    vel = velocity * dt
+    vel = velocity * time_elapsed
+
 
     # Instantiate your movable rectangle as box.
     box = pygame.Rect(rect_x, rect_y, rect_width, rect_height)
